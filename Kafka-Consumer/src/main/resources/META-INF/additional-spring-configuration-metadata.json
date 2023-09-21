@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "my.kafka.bootstrap-server",
+    "type": "java.lang.String",
+    "description": "A description for 'my.kafka.bootstrap-server'"
+  },
+  {
+    "name": "my.kafka.topic.name",
+    "type": "java.lang.String",
+    "description": "A description for 'my.kafka.topic.name'"
+  },
+  {
+    "name": "my.kafka.topic.group.id",
+    "type": "java.lang.String",
+    "description": "A description for 'my.kafka.topic.group.id'"
+  },
+  {
+    "name": "my.kafka.topic.auto.offset.reset",
+    "type": "java.lang.String",
+    "description": "A description for 'my.kafka.topic.auto.offset.reset'"
+  },
+  {
+    "name": "my.kafka.topic.name2",
+    "type": "java.lang.String",
+    "description": "A description for 'my.kafka.topic.name2'"
+  },
+  {
+    "name": "my.kafka.topic.group.id2",
+    "type": "java.lang.String",
+    "description": "A description for 'my.kafka.topic.group.id2'"
+  }
+]}
